@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.container {
+    width: 1260px;
+    margin: 0 auto;
+}
+.header{
+background: black;
+    height: 570px;
+}
+.glavnaya{
+    text-decoration: none;
+}
+.header__top{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+.title{
+    color: white;
+    font-family: Inter sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+.header__top-info{
+    display: flex;
+    column-gap: 60px;
+}
+.header__top-info1{
+    text-decoration: none;
+    color: white;
+
+}
+.header__top-spans{
+    margin-top: 270px;
+    justify-content: space-between;
+    display: flex;
+    position: absolute;
+
+}
+.header__photo{
+    cursor: grab;
+    width: 1220px;
+    height: 570px;
+    padding-left: 40px;
+    margin-top: 40px;
+    display: flex;
+
+}
+.header__main{
+    position: relative;
+}
+.header__main-line{
+    position: absolute;
+    top: 140px;
+    left: 260px;
+}
+.colibri-title{
+    position: absolute;
+    top: 200px;
+    left: 260px;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+    font-family: Inter sans-serif;
+}
+.header__main-span{
+    position: absolute;
+    top: 390px;
+    left: 940px;
+}
+.header__main-ps{
+    position: absolute;
+    top: 423px;
+    left: 970px;
+    color: black;
+}
+.header__main-p{
+    position: absolute;
+    top: 500px;
+    left: 270px;
+    color: white;
+}
+.info{
+    padding-top: 256px;
+    padding-bottom: 110px;
+}
+.info__p{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.info__h{
+    text-align: center;
+    font-family: Inter sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 500;
+}
+.info__div{
+    display: flex;
+    padding: 40px 0 20px;
+    justify-content: center;
+    column-gap: 220px;
+}
+.info__div-1 p{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Inter sans-serif;
+    padding-top: 30px;
+}
+.info__div-2 p{
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    font-family: Inter sans-serif;
+    padding-top: 20px;
+}
