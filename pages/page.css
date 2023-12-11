@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.container {
+    width: 1260px;
+    margin: 0 auto;
+}
+.studio{
+    background: url("../img/video bg.png");
+    padding-bottom: 170px;
+}
+.header__top a{
+    font-family: Inter sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+    margin-left: 60px;
+}
+.header__top{
+    padding: 36px 0 120px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.header__left h1{
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
+.header__box{
+    display: flex;
+    justify-content: center;
+    column-gap: 390px;
+}
+.header__right p{
+    font-family: Inter sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding: 30px 0 50px 0;
+}
+.header__btn{
+    width: 140px;
+    height: 40px;
+    background: white;
+    color: black;
+    border: none;
+}
+.header__btn svg{
+    margin-left: 10px;
+}
+.branding{
+    background: black;
+    padding-bottom: 140px;
+}
+.branding__select1 img{
+    width: 670px;
+    height: 430px;
+}
+.branding__select1 p{
+    font-family: Inter sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+}
+.branding__select1{
+    padding-bottom: 130px;
+    display: flex;
+    padding-top: 20px;
+}
+.branding__img1 p{
+    font-family: Inter sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding-bottom: 20px;
+}
+.branding__info1{
+    padding: 100px;
+}
+.branding__info1 p{
+    font-family: Inter sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+    padding: 20px 0 30px 0;
+}
+.branding__info1 h2{
+    font-family: Inter sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+    padding-top: 30px;
+}
+.branding__info1 h6{
+    font-family: Inter sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
+.branding__info1 h6 svg{
+    margin-left: 10px;
+}
+.branding__btn{
+    width: 140px;
+    height: 40px;
+    background: white;
+    color: black;
+    border: none;
+    margin-left: 570px;
+}
+.branding__btn svg{
+    margin-left: 10px;
+}
