@@ -209,3 +209,155 @@ background: black;
     top: 280px;
     left: 50px;
 }
+.featured__top{
+    display: flex;
+    justify-content: center;
+    column-gap: 250px;
+    padding-bottom: 60px;
+}
+.featured__title{
+    font-size: 100px;
+    font-style: normal;
+    font-weight: 500;
+}
+.featured__svg{
+    margin-top: 80px;
+}
+.featured__btn{
+    width: 140px;
+    height: 40px;
+    margin-top: 60px;
+    background: black;
+    color: white;
+}
+.featured__btn svg{
+    margin-left: 10px;
+}
+.featured{
+    position: relative;
+}
+.featured p{
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+}
+.featured h5{
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 500;
+}
+.featured__main{
+    display: flex;
+    justify-content: center;
+    column-gap: 140px;
+}
+.featured__main-left img{
+    padding-bottom: 40px;
+    width: 370px;
+    height: 440px;
+}
+.featured__main-right img{
+    padding-bottom: 40px;
+    width: 600px;
+    height: 440px;
+}
+.featured__start img{
+    padding-bottom: 40px;
+    width: 600px;
+    height: 440px;
+}
+.featured__end img{
+    width: 370px;
+    height: 440px;
+}
+.featured__main-left{
+    padding-top: 180px;
+}
+.featured__main-left p{
+    padding-bottom: 120px;
+    padding-top: 15px;
+}
+.featured__main-right p{
+    padding-bottom: 120px;
+    padding-top: 15px;
+}
+.featured__start p{
+    padding-bottom: 120px;
+    padding-top: 15px;
+}
+.featured__footer{
+    display: flex;
+}
+.featured__end{
+    position: relative;
+    left: 240px;
+    top: -200px;
+}
+.work__process{
+    position: relative;
+    background: black;
+    padding-bottom: 140px;
+}
+.work__title{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+    padding: 130px 0 70px;
+}
+.work__box{
+    padding-left: 100px;
+    display: flex;
+    column-gap: 160px;
+}
+.work__nav h5{
+    padding: 14px 0;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    color: #6F6F6F;
+}
+.nav1{
+    color: white;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    display: flex;
+    column-gap: 20px;
+}
+.work__info p{
+    padding-top: 20px;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    color: white;
+}
+.work__info button{
+    margin-top: 72px;
+    background: white;
+    color: black;
+    width: 140px;
+    height: 40px;
+}
+.work__info svg{
+    color: white;
+    margin-left: 10px;
+}
+.work__nav svg{
+    margin-left: -24px;
+}
+.work__krug{
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.work__krugy{
+    position: absolute;
+    top: 220px;
+    right: 240px;
+}
+.life__information{
+    padding: 160px 0 140px;
+}
