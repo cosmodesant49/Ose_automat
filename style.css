@@ -122,3 +122,90 @@ background: black;
     font-family: Inter sans-serif;
     padding-top: 20px;
 }
+.info__btn{
+    width: 140px;
+    height: 40px;
+    background: black;
+    color: white;
+    margin-left: 710px;
+    margin-top: 40px;
+}
+.info__svg2{
+ margin-left: 10px;
+}
+.img-info{
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    padding-bottom: 160px;
+}
+.img-info img{
+    width: 320px;
+    height: 430px;
+    position: relative;
+}
+.img-info p{
+    position: absolute;
+    font-family: Inter sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
+.img-info svg{
+    position: absolute;
+}
+.img-info__images{
+    margin-left: -44px;
+    display: flex;
+    column-gap: 30px;
+    justify-content: space-between;
+}
+.img-info__image1{
+    display: flex;
+    position: relative;
+}
+.img-info__image2{
+    display: flex;
+    position: relative;
+}
+.img-info__image3{
+    display: flex;
+    position: relative;
+}
+.img-info__image4{
+    display: flex;
+    position: relative;
+}
+.img-info__image1 p{
+    top: 340px;
+    left: 50px;
+}
+.img-info__image2 p{
+    top: 340px;
+    left: 50px;
+}
+.img-info__image3 p{
+    top: 340px;
+    left: 50px;
+}
+.img-info__image4 p{
+    top: 340px;
+    left: 50px;
+}
+.img-info__image1 svg{
+    top: 280px;
+    left: 50px;
+}
+.img-info__image2 svg{
+    top: 280px;
+    left: 50px;
+}
+.img-info__image3 svg{
+    top: 280px;
+    left: 50px;
+}
+.img-info__image4 svg{
+    top: 280px;
+    left: 50px;
+}
