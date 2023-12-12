@@ -454,3 +454,31 @@ background: black;
     left: 720px;
 
 }
+.slide__info{
+    position: relative;
+    background: black;
+    padding: 170px 0 60px 0;
+    cursor: grab;
+}
+.slide__box{
+    position: relative;
+    cursor: grab;
+}
+.slide__line1{
+    top: 140px;
+    position: absolute;
+    left: 0;
+    cursor: grab;
+}
+.slide__line2{
+    position: absolute;
+    right: 170px;
+    bottom: 120px;
+    cursor: grab;
+}
+.slide__icon1{
+    position: absolute;
+    bottom: 390px;
+    left: 610px;
+    cursor: grab;
+}
