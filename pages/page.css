@@ -123,3 +123,83 @@
 .branding__btn svg{
     margin-left: 10px;
 }
+.works__left h6{
+    font-family: Inter sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+}
+.works__left h2{
+    font-family: Inter sans-serif;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    padding: 30px 0 50px 0;
+}
+.works__btn{
+    width: 140px;
+    height: 40px;
+    background: black;
+    color: white;
+    border: none;
+}
+.works__btn svg{
+    margin-left: 10px;
+}
+.works__box{
+    padding: 100px 0 100px 0;
+    display: flex;
+    justify-content: center;
+    column-gap: 300px;
+}
+.works__right h6{
+    font-family: Inter sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+}
+.works__right p{
+    font-family: Inter sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    color: black;
+    padding: 30px 0 50px 0;
+}
+.works__times{
+    display: flex;
+    justify-content: space-between;
+}
+.works__time h3{
+    font-family: Inter sans-serif;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+}
+.works__time p{
+    font-family: Inter sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    color: black;
+    margin-top: -40px;
+    margin-left: 5px;
+}
+.works__time{
+    padding-top: 40px;
+}
+.logo img{
+    width: 1170px;
+    height: 550px;
+    margin-left: 60px;
+}
+.logo__box{
+    display: flex;
+    column-gap: 100px;
+    margin-left: 40px;
+    padding: 100px 0 120px 0;
+}
